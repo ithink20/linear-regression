@@ -10,7 +10,7 @@ var data_points = [];
 var m = 1;
 var c = 0;
 function setup() {
-    createCanvas(1000, 1000);
+    createCanvas(700, 700);
 }
 
 function draw() {
